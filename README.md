@@ -1,58 +1,75 @@
-# Hi there 👋 I'm Gagandeep
+# 👋 Hi, I’m Gagandeep (GTX‑Gagan)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagandeep03/)
-[![GitHub followers](https://img.shields.io/github/followers/gagandeep03?label=Follow&style=social)](https://github.com/gagandeep03)
+[![Website](https://img.shields.io/badge/Website-Portfolio-lightgrey)](https://gagandeep03.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTX-Gagan&layout=compact)](https://github.com/GTX-Gagan)
 
 
 ---
 
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 
-I build clean, maintainable software and enjoy turning ideas into production-ready applications. I'm interested in web development, backend services, and automation.
+I build high-quality web apps and backend services. Passionate about performance, developer experience, and clean architecture.
 
 
-- 🔭 I’m currently working on: **Your current project name**
-- 🌱 I’m currently learning: **A technology you're learning**
-- 👯 I’m looking to collaborate on: open-source projects and dev tools
-- 📫 How to reach me: via LinkedIn — https://www.linkedin.com/in/gagandeep03/
-
-
----
-
-
-## 💼 Skills
-
-
-- **Languages:** JavaScript (ES6+), TypeScript, Python, Java
-- **Frontend:** React, Next.js, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express, FastAPI, REST, GraphQL
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **DevOps / Tools:** Docker, GitHub Actions, Git, CI/CD
+- 🔭 Currently: Building a cloud-native microservice for X.
+- 🌱 Learning: Advanced TypeScript patterns, DDD, and service meshes.
+- 👯 Open to: OSS collaborations and mentoring.
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gagandeep03/)
 
 
 ---
 
 
-## ⭐ Featured Projects
+## 🧰 Tech Stack
 
 
-> Add short descriptions and links to repositories (replace the placeholders)
+**Languages:** TypeScript, JavaScript, Python, Java
 
 
-- **Project A** — _A one-line description._ 🔗 https://github.com/gagandeep03/project-a
-- **Project B** — _A one-line description._ 🔗 https://github.com/gagandeep03/project-b
+**Frontend:** React, Next.js, Tailwind CSS
+
+
+**Backend:** Node.js, FastAPI, Express, PostgreSQL
+
+
+**DevOps:** Docker, GitHub Actions, Terraform (basics)
 
 
 ---
 
 
-## 📊 GitHub Stats
+## 🔭 Featured Projects
 
 
-![Gagandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagandeep03&show_icons=true&theme=default)
+> (Replace placeholders with your real repo links — I included templates so they render nicely.)
+
+
+### Project — `project-a`
+**Description:** One-line description of what problem it solves.
+- 🔗 Repo: https://github.com/GTX-Gagan/project-a
+- 🧪 Tech: React, Node.js, PostgreSQL
+
+
+### Project — `project-b`
+**Description:** Short description or demo link.
+- 🔗 Repo: https://github.com/GTX-Gagan/project-b
+- 🧪 Tech: TypeScript, Docker, GitHub Actions
+
+
+---
+
+
+## 📈 GitHub Stats
+
+
+![Gagandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTX-Gagan&show_icons=true&theme=radical)
+
+
+*Tip:* To show streaks or activity heatmaps, consider adding `github-readme-streak-stats` and `github-contribution-stats` widgets.
 
 
 ---
@@ -61,10 +78,10 @@ I build clean, maintainable software and enjoy turning ideas into production-rea
 ## 📫 Contact
 
 
-Feel free to connect on LinkedIn: https://www.linkedin.com/in/gagandeep03/
+Connect on LinkedIn: https://www.linkedin.com/in/gagandeep03/
 
 
 ---
 
 
-*Made with ❤️ — update the README to reflect your real projects, current learning, and contact preferences.*
+*How to use:* Create a repository named `GTX-Gagan` (must match your GitHub username). Commit this `README.md` to that repo's root. GitHub will display it on your profile page.
