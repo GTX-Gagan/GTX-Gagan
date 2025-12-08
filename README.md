@@ -33,10 +33,10 @@ I build high-quality web apps and backend services. Passionate about performance
 **Frontend:** React, Next.js, Tailwind CSS
 
 
-**Backend:** Node.js, FastAPI, Express, PostgreSQL
+**Backend:** Node.js, FastAPI, MySQL , XAMPP
 
 
-**DevOps:** Docker, GitHub Actions, Terraform (basics)
+**DevOps:** Docker, GitHub Actions.
 
 
 ---
@@ -48,16 +48,13 @@ I build high-quality web apps and backend services. Passionate about performance
 > (Replace placeholders with your real repo links — I included templates so they render nicely.)
 
 
-### Project — `project-a`
-**Description:** One-line description of what problem it solves.
-- 🔗 Repo: https://github.com/GTX-Gagan/project-a
-- 🧪 Tech: React, Node.js, PostgreSQL
+### Project — `PHISHING DETECT SYSTEM `
+**Description:** Measuring and identifying suspicious emails or messages to prevent cyber attacks.
+- 🔗 Repo: [https://github.com/GTX-Gagan/project-a](https://github.com/GTX-Gagan/Phishing-detect-system)
+- 🧪 Tech: HTML , CSS , Php , JS, MySQL , XAMPP.
 
 
-### Project — `project-b`
-**Description:** Short description or demo link.
-- 🔗 Repo: https://github.com/GTX-Gagan/project-b
-- 🧪 Tech: TypeScript, Docker, GitHub Actions
+
 
 
 ---
