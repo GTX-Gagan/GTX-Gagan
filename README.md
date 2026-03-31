@@ -1,84 +1,77 @@
-# 👋 Hi, I’m Gagandeep (GTX‑Gagan)
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagandeep03/)
-[![Website](https://img.shields.io/badge/Website-Portfolio-lightgrey)](https://gagandeep03.github.io)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTX-Gagan&layout=compact)](https://github.com/GTX-Gagan)
-
+<h1 align="center">Hi 👋, I'm Gagandeep T</h1>
+<h3 align="center">MCA Student | Full Stack Developer | Tech Enthusiast</h3>
 
 ---
 
-
-## 🚀 About Me
-
-
-I build high-quality web apps and backend services. Passionate about performance, developer experience, and clean architecture.
-
-
-- 🔭 Currently: Building a cloud-native microservice for X.
-- 🌱 Learning: Advanced TypeScript patterns, DDD, and service meshes.
-- 👯 Open to: OSS collaborations and mentoring.
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gagandeep03/)
-
+## 👨‍💻 About Me
+- 🎓 MCA Student passionate about building scalable web applications  
+- 💡 Interested in Full Stack Development & Machine Learning  
+- 🔭 Currently working on real-world problem-solving projects  
+- 🌱 Always learning new technologies and improving my skills  
+- 📍 Mangalore, Karnataka  
 
 ---
 
-
-## 🧰 Tech Stack
-
-
-**Languages:** TypeScript, JavaScript, Python, Java
-
-
-**Frontend:** React, Next.js, Tailwind CSS
-
-
-**Backend:** Node.js, FastAPI, MySQL , XAMPP
-
-
-**DevOps:** Docker, GitHub Actions.
-
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/gagandeep03" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+</a>
+<a href="https://github.com/GTX-Gagan" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="30" />
+</a>
+</p>
 
 ---
 
-
-## 🔭 Featured Projects
-
-
-> (Replace placeholders with your real repo links — I included templates so they render nicely.)
-
-
-### Project — `PHISHING DETECT SYSTEM `
-**Description:** Measuring and identifying suspicious emails or messages to prevent cyber attacks.
-- 🔗 Repo: [https://github.com/GTX-Gagan/project-a](https://github.com/GTX-Gagan/Phishing-detect-system)
-- 🧪 Tech: HTML , CSS , Php , JS, MySQL , XAMPP.
-
-
-
-
+## 🛠️ Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,c,java" />
+</p>
 
 ---
 
+## 🚀 Projects
 
-## 📈 GitHub Stats
-
-
-![Gagandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTX-Gagan&show_icons=true&theme=radical)
-
-
-*Tip:* To show streaks or activity heatmaps, consider adding `github-readme-streak-stats` and `github-contribution-stats` widgets.
-
+### 🔹 Multiple Disease Prediction System
+- 🧠 Machine Learning-based health prediction system  
+- ⚙️ Tech: Python, Streamlit, XGBoost, Flask  
+- 🔗 https://github.com/GTX-Gagan/Multiple-Deaease-Prediction-System-Using-Machine-Learning  
 
 ---
 
-
-## 📫 Contact
-
-
-Connect on LinkedIn: https://www.linkedin.com/in/gagandeep03/
-
+### 🔹 Phishing Detection System
+- 🔐 Detects suspicious emails/messages to prevent cyber attacks  
+- ⚙️ Tech: PHP, MySQL, Python  
+- 🔗 https://github.com/GTX-Gagan/Phishing-detect-system  
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GTX-Gagan&show_icons=true&theme=tokyonight" />
+</p>
 
-*How to use:* Create a repository named `GTX-Gagan` (must match your GitHub username). Commit this `README.md` to that repo's root. GitHub will display it on your profile page.
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GTX-Gagan&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Skills
+- 💻 Languages: JavaScript, Python, Java, C  
+- 🌐 Web: HTML, CSS, React, Node.js  
+- 🗄️ Database: MySQL  
+- ⚙️ Tools: GitHub, VS Code  
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GTX-Gagan&theme=tokyo-night" />
+</p>
+
+---
+
+## ✨ Fun Fact
+⚡ I love solving real-world problems using code and building impactful applications!
