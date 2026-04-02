@@ -1,77 +1,29 @@
-<h1 align="center">Hi 👋, I'm Gagandeep T</h1>
-<h3 align="center">MCA Student | Full Stack Developer | Tech Enthusiast</h3>
+<div align="center">
+  
+  <!-- Animated Header -->
+  <img src="[capsule-render.vercel.app](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gagandeep%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MCA%20Student%20|%20Full%20Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=52&descSize=18)"/>
+
+  <!-- Typing Animation -->
+  <a href="[git.io](https://git.io/typing-svg)">
+    <img src="[readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Web+Applications+%F0%9F%8C%90;Machine+Learning+Enthusiast+%F0%9F%A4%96;Problem+Solver+%26+Code+Craftsman+%F0%9F%92%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)" alt="Typing SVG" />
+  </a>
+
+  <!-- Profile Views Counter -->
+  <br/>
+  <img src="[komarev.com](https://komarev.com/ghpvc/?username=GTX-Gagan&style=for-the-badge&color=blueviolet)" alt="Profile Views"/>
+  
+</div>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 MCA Student passionate about building scalable web applications  
-- 💡 Interested in Full Stack Development & Machine Learning  
-- 🔭 Currently working on real-world problem-solving projects  
-- 🌱 Always learning new technologies and improving my skills  
-- 📍 Mangalore, Karnataka  
+## 🎯 Quick Snapshot
 
----
-
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/gagandeep03" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
-</a>
-<a href="https://github.com/GTX-Gagan" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="30" />
-</a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,c,java" />
-</p>
-
----
-
-## 🚀 Projects
-
-### 🔹 Multiple Disease Prediction System
-- 🧠 Machine Learning-based health prediction system  
-- ⚙️ Tech: Python, Streamlit, XGBoost, Flask  
-- 🔗 https://github.com/GTX-Gagan/Multiple-Deaease-Prediction-System-Using-Machine-Learning  
-
----
-
-### 🔹 Phishing Detection System
-- 🔐 Detects suspicious emails/messages to prevent cyber attacks  
-- ⚙️ Tech: PHP, MySQL, Python  
-- 🔗 https://github.com/GTX-Gagan/Phishing-detect-system  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GTX-Gagan&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GTX-Gagan&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Skills
-- 💻 Languages: JavaScript, Python, Java, C  
-- 🌐 Web: HTML, CSS, React, Node.js  
-- 🗄️ Database: MySQL  
-- ⚙️ Tools: GitHub, VS Code  
-
----
-
-## 📈 Activity Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GTX-Gagan&theme=tokyo-night" />
-</p>
-
----
-
-## ✨ Fun Fact
-⚡ I love solving real-world problems using code and building impactful applications!
+```typescript
+const gagan = {
+    pronouns: "He" | "Him",
+    location: "Mangalore, Karnataka 📍",
+    education: "MCA Student 🎓",
+    currentFocus: "Real-world Problem Solving Projects 🔭",
+    interests: ["Full Stack Development", "Machine Learning"],
+    funFact: "I turn coffee into code ☕ → 💻"
+};
