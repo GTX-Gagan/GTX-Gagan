@@ -9,7 +9,7 @@
 
   <br/><br/>
 
-  <a href="https://linkedin.com/in/GTX-Gagan">
+  <a href="https://www.linkedin.com/in/gagandeep03/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=ffffff"/>
   </a>
   &nbsp;
@@ -72,19 +72,26 @@ Open to internships, research collaborations, and interesting problems.
 
 ---
 
-### Stats
+### What I Build
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GTX-Gagan&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=888888&hide=stars&count_private=true" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTX-Gagan&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=6" />
-</div>
+| Area | Focus |
+|---|---|
+| **Web Applications** | End-to-end MERN / Next.js apps with clean REST APIs |
+| **ML Systems** | Supervised learning pipelines, model evaluation, deployment |
+| **Developer Tools** | CLI utilities, automation scripts, dev workflow improvements |
+| **System Design** | Scalable backend architecture, DB schema design, caching strategies |
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GTX-Gagan&theme=dark&hide_border=true&background=0d0d0d&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=444444" />
-</div>
+### Engineering Principles
+
+```
+· Write code for the next engineer, not just the compiler
+· Understand the problem before opening the editor
+· Simple solutions over clever ones
+· Performance is a feature, not an afterthought
+· Ship early, iterate fast, document always
+```
 
 ---
 
