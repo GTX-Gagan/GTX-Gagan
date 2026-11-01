@@ -31,11 +31,10 @@
 ### About
 
 ```
-MCA student focused on building production-grade web applications and
-exploring applied machine learning. I care about clean architecture,
-performance, and writing code that scales.
-
-Open to internships, research collaborations, and interesting problems.
+MCA graduate and full-stack/AI developer with hands-on experience delivering production web applications and building applied Machine
+Learning systems, including a Network Intrusion Detection System and a fine-tuned LLM for a low-resource Indian language. Skilled in Python,
+Java, SQL, and modern ML/NLP frameworks. Seeking a Graduate Engineer Trainee role to apply strong problem-solving skills and a
+continuous-learning mindset to real-world engineering challenges
 ```
 
 ---
